@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086862048608",
+    "firebase_url": "https://coronacommunicator.firebaseio.com",
+    "project_id": "coronacommunicator",
+    "storage_bucket": "coronacommunicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086862048608:android:e4155c6367c2c73b62f205",
+        "android_client_info": {
+          "package_name": "de.unlimitedstudios.coronacommunicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086862048608-396euojur33e3i2lm5pta04b5dkbig0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.unlimitedstudios.coronacommunicator",
+            "certificate_hash": "16f4de85a2eb6a0e9db3667e4fed0b97c336f80a"
+          }
+        },
+        {
+          "client_id": "1086862048608-pbbl17qt0p9f7r6iv8q1p2ce3n5lkvf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUBoZVe15XsMU-AJ1zkAqeSnSnCyIMtXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086862048608-pbbl17qt0p9f7r6iv8q1p2ce3n5lkvf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
